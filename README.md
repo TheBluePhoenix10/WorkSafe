@@ -31,15 +31,15 @@ Once activated, you will be able to save and use any number of ip cameras, web c
 All the steps and details on how to use the various buttons and functions of our main GUI software as well the batchPhoto script are documented in a instruction manual that we have created. It can be viewed here: https://drive.google.com/file/d/1HKTsD9kUfiyijpllLyKm9hIiLULIxXuX/view?usp=sharing
 
 ### **Folder Descriptions:**
-The **dataset** folder contains the saved images taken using the batchPhoto.py script. You can directly save photos of a person you would like to add to the FR database inside a folder with the same name as that of the person. 
-If fever is detected, you will be sent an e-mail with the photo and vital stats of the person screened. The photo will be saved in the "**email_content**" folder
-**excel_sheets** folder contains two excel files, one containing the data of the people in the FR database (details.xlsx) and the other which is an automated attendance report (attendance.xlsx). The name of the personnel/employee entered in the details.xlsx should be same as their respective folder's name containing the images of the respective personnel/employee. The attendance.xlsx creates a separate sheet for each day and saves the vital stats data against the identified personnel's name with the time stamp. If face not recognized, the name will show up to be unknown.
-**models:** contains models used for FR
-**password:** contains the mac-id, email-id and activation-key used to register and unlock the software
-**recordings:** contains video recordings that can be saved using the Recoding button of the main GUI software. 
-**resources:** A few images of the background and button icons used by the software
-**saved_devices:** contains the saved camera and worksafe device configurations
-**skin_detector:** A folder containing scripts pertaining to skin detection
+1. The **dataset** folder contains the saved images taken using the batchPhoto.py script. You can directly save photos of a person you would like to add to the FR database inside a folder with the same name as that of the person. 
+2. If fever is detected, you will be sent an e-mail with the photo and vital stats of the person screened. The photo will be saved in the "**email_content**" folder.
+3. **excel_sheets** folder contains two excel files, one containing the data of the people in the FR database (details.xlsx) and the other which is an automated attendance report (attendance.xlsx). The name of the personnel/employee entered in the details.xlsx should be same as their respective folder's name containing the images of the respective personnel/employee. The attendance.xlsx creates a separate sheet for each day and saves the vital stats data against the identified personnel's name with the time stamp. If face not recognized, the name will show up to be unknown.
+4. **models:** contains models used for FR
+5. **password:** contains the mac-id, email-id and activation-key used to register and unlock the software
+6. **recordings:** contains video recordings that can be saved using the Recoding button of the main GUI software. 
+7. **resources:** A few images of the background and button icons used by the software
+8. **saved_devices:** contains the saved camera and worksafe device configurations
+9. **skin_detector:** A folder containing scripts pertaining to skin detection
 
 For other details, contact me on my e-mail id or use the instruction manual, both of which are provided above.
 
