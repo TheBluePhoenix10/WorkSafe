@@ -43,6 +43,5 @@ All the steps and details on how to use the various buttons and functions of our
 
 For other details, contact me on my e-mail id or use the instruction manual, both of which are provided above.
 
-I will be adding additional functionalities like fall detection, hazard sign detection, PPE gear detection, etc. in the future. 
-
+I will be adding additional functionalities like fall detection, hazard sign detection, PPE gear detection, etc. in the future. We can use pyinstaller to create a distribution for this software as well. It has already been successfully tested and the steps to reproduce will soon be added.
 
