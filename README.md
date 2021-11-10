@@ -1,3 +1,6 @@
+# WORKSAFE
+This is the main repo for the Worksafe project, that won Second place at the Eyes on Edge: tinyML Vision Challenge on hackster.io 
+The project can be found here: https://www.hackster.io/TheBluePhoenix/worksafe-cv-based-multiparameter-monitoring-and-diagnostics-bdf042
 Even though it works with any camera device and you can feed it json data from any embedded device using wifi, this repository was developed to complement the WorkSafe device. This readme contains all basic information to run this software.
 
 ### **Dependencies:**
@@ -44,4 +47,7 @@ All the steps and details on how to use the various buttons and functions of our
 For other details, contact me on my e-mail id or use the instruction manual, both of which are provided above.
 
 I will be adding additional functionalities like fall detection, hazard sign detection, PPE gear detection, etc. in the future. We can use pyinstaller to create a distribution for this software as well. It has already been successfully tested and the steps to reproduce will soon be added.
+
+## DISCLAIMER:
+While we have performed preliminary tests, do not use this repo for medical purposes as it is still under test.
 
