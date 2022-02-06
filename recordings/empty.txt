@@ -1,0 +1,2 @@
+Empty file needed to push an empty folder to github.
+This folder contains all saved recordings
